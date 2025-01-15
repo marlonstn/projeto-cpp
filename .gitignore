@@ -1,0 +1,16 @@
+.h
+.c
+.fifo
+.exe
+.a
+.db
+.log
+.obj
+.sln
+.pdb
+.pib
+.sdf
+.suo
+.vsidx
+.vcxproj.user
+*.key
